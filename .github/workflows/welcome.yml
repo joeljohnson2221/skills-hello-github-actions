@@ -1,5 +1,5 @@
 name: Post welcome comment
-on:z
+on:
   pull_request:
     types: [opened]
 permissions:
